@@ -81,8 +81,11 @@ main {
 }
 
 .panel p {
-  text-align: justify;
+  text-align: justify !important;
+  text-justify: inter-word;
+  hyphens: auto;
   max-width: 820px;
+  margin: 0 auto 1.5rem;  max-width: 820px;
   margin: 0 auto 1.5rem;
 }
 
