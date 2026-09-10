@@ -81,6 +81,7 @@ main {
 }
 
 .panel p {
+  text-align: justify;
   max-width: 820px;
   margin: 0 auto 1.5rem;
 }
